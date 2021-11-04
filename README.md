@@ -1,5 +1,3 @@
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91230277/140241615-2c40e48c-ce28-4b88-b118-fcba3f5351e0.png)
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91230277/140241616-309c1694-78f6-4268-8672-b91b0e7bad28.png)
 # Kickstarting with Excel
 
 ## Overview of Project
