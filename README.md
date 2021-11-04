@@ -4,7 +4,7 @@
 
 ### Purpose: 
  
- - In a short length of time, Louise's play Fever came close to reaching its fundraising target. She now wants to know how various campaigns fared in terms of their debut dates and financial targets. I have been tasked to analize the data for her. The purpose of this analysis is to figure out the outcomes of campaigns depending on their launch dates dates and financial ambitions.
+ - In a short length of time, Louise's play "Fever" came close to reaching its fundraising target. She now wants to know how various campaigns fared in terms of their debut dates and financial targets. I have been tasked to analize the data for her. The purpose of this analysis is to figure out the outcomes of campaigns depending on their launch dates dates and financial ambitions.
 
 ## Analysis and Challenges
 
