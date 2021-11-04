@@ -1,3 +1,5 @@
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91230277/140241615-2c40e48c-ce28-4b88-b118-fcba3f5351e0.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91230277/140241616-309c1694-78f6-4268-8672-b91b0e7bad28.png)
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -10,13 +12,14 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
- - Using Kickstarter_Challenge.xlsx , I created a PivotTable to visualize the Theater outcomes for the columns of "successful", "failed," and "canceled" based on launch date. I then created from the PivotTable a line graph to easily see the shifts in outcome based on month: Theater_Outcomes_vs_Launch.png
+ - Using [Kickstarter_Challenge.xlsx](https://github.com/Sebjet24/kickstarter-analysis/files/7471647/Kickstarter_Challenge.xlsx), I created a PivotTable to visualize the Theater outcomes for the columns of "successful", "failed," and "canceled" based on launch date. I then created from the PivotTable a line graph to easily see the shifts in outcome based on month: ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91230277/140241616-309c1694-78f6-4268-8672-b91b0e7bad28.png)
 
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
 
 ## Results
+
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
