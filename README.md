@@ -10,8 +10,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
- - Using Kickstarter_Challenge.xlsx, I created a PivotTable to visualize the Theater outcomes for the columns of "successful", "failed," and "canceled" based on launch date. I then created from the PivotTable a line graph to easily see the shifts in outcome based on month:
-https://github.com/Sebjet24/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+ - Using Kickstarter_Challenge.xlsx , I created a PivotTable to visualize the Theater outcomes for the columns of "successful", "failed," and "canceled" based on launch date. I then created from the PivotTable a line graph to easily see the shifts in outcome based on month: Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
