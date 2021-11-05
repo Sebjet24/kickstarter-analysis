@@ -17,13 +17,17 @@
  - To better understand the outcomes based on goals, I created a new sheet that consisted of a column separating goal dollar amount:
 <img width="187" alt="image" src="https://user-images.githubusercontent.com/91230277/140522686-1d28396b-cfc7-4d2b-9523-06439aec123c.png"> 
 I then created columns and functions for Number Successful,	Number Failed,	Number Canceled,	Total Projects,	Percentage Successful,	Percentage Failed, and	Percentage Canceled:
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/91230277/140523019-87a709b8-8505-4f83-8604-fa62521e4281.png">
 Finally, I took the percentage columns and created another line graph that gave me a good look as to what were the outcomes based on goals:
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91230277/140524461-1e58dc8a-4abc-46ff-86f4-6817a26525b2.png)
 
 
 ### Challenges and Difficulties Encountered
 
- - The main difficulty I ecountered was figuring out where I made mistakes in my code. Specifically, it was difficult for me to ascertain that I forgot to add the equal symbol in my functions for distributing 
+ - The main difficulty I ecountered was figuring out where I made mistakes in my code. Specifically, it was difficult for me to ascertain that I forgot to add the equal symbol in my functions for distinguishing the dollar amount rows. i.e.:
+ - <img width="1065" alt="image" src="https://user-images.githubusercontent.com/91230277/140525219-57c8d4a3-0c7d-4508-aefa-df344c2829e5.png">
+
 
 ## Results
 
