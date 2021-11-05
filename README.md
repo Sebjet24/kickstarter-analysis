@@ -19,7 +19,7 @@
 I then created columns and functions for Number Successful,	Number Failed,	Number Canceled,	Total Projects,	Percentage Successful,	Percentage Failed, and	Percentage Canceled:
 <img width="922" alt="image" src="https://user-images.githubusercontent.com/91230277/140523019-87a709b8-8505-4f83-8604-fa62521e4281.png">
 Finally, I took the percentage columns and created another line graph that gave me a good look as to what were the outcomes based on goals:
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91230277/140520322-b6a2fa5c-a925-4f70-8eb4-007840b6812b.png)
+
 
 ### Challenges and Difficulties Encountered
 
