@@ -26,15 +26,15 @@ Finally, I took the percentage columns and created another line graph that gave 
 ### Challenges and Difficulties Encountered
 
  - The main difficulty I ecountered was figuring out where I made mistakes in my code. Specifically, it was difficult for me to ascertain that I forgot to add the equal symbol in my functions for distinguishing the dollar amount rows. i.e.:
- - <img width="1065" alt="image" src="https://user-images.githubusercontent.com/91230277/140525219-57c8d4a3-0c7d-4508-aefa-df344c2829e5.png">
-
+<img width="1065" alt="image" src="https://user-images.githubusercontent.com/91230277/140525219-57c8d4a3-0c7d-4508-aefa-df344c2829e5.png">
+Missing this symbol actually made for a drastic change in the results, but once I realized what was happening, it was smooth sailing from then on.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Two conclusions I drew about the Outcomes based on Launch Date is one, there were far more succesful Theater outcomes when the launch date was in May than failures. I assume this is because it is the beginning of the summer for most and people are more free to donate. And two, there are almost no canceled kickstarters.
 
-- What can you conclude about the Outcomes based on Goals?
+- What I conclude about the Outcomes based on Goals is that just like Theater Outcomes based on launch date there is no cancellations for kick starters. Every single kickstater either pulled out and failed or was succesful and stayed. 
 
-- What are some limitations of this dataset?
+- Some of the limitations of these datasets are they don't account for year to year on the monthly graph. They take all years and add them together for each month. So there could have been some outliers that shifted the data substantially. Another limitation is the theater plays that were asking to be funded could just not have spoken to the viewers at the time. Meaning, there could have been plays that were just awfully promoted at the time and then once again would create some outliers. Despite these limitations though we can still make some strong assumtions about plays that failed and plays that were succesful.
 
-- What are some other possible tables and/or graphs that we could create?
+- Some other possible tables and/or graphs that we could create would be success and failure based off of the title and description. This could also help us see some of the reasons some plays failed and some didn't. I also think creating a graph based on succesful titles may help when promoting a play. A good title definately helps bring in at least viewers of the kickstarter projects. 
