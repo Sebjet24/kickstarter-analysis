@@ -14,12 +14,14 @@
 
 ### Analysis of Outcomes Based on Goals
 
- - I then created 
+ - I then created a new sheet called Outcomes based on Goals that consisted 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91230277/140520322-b6a2fa5c-a925-4f70-8eb4-007840b6812b.png)
 
 ### Challenges and Difficulties Encountered
 
-## Results
+ - The main difficulty I ecountered was figuring out where I made mistakes in my code. Specifically, it was difficult for me to ascertain that I forgot to add the equal symbol in my functions for distributing 
 
+## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
