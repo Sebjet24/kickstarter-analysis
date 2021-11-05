@@ -14,7 +14,7 @@
 
 ### Analysis of Outcomes Based on Goals
 
- - I then created a new sheet called Outcomes based on Goals that consisted 
+ - To better understand the outcomes based on goals, I created a new sheet called Outcomes based on Goals that consisted 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91230277/140520322-b6a2fa5c-a925-4f70-8eb4-007840b6812b.png)
 
 ### Challenges and Difficulties Encountered
