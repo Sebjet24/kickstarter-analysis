@@ -17,7 +17,6 @@
  - To better understand the outcomes based on goals, I created a new sheet that consisted of a column separating goal dollar amount:
 <img width="187" alt="image" src="https://user-images.githubusercontent.com/91230277/140522686-1d28396b-cfc7-4d2b-9523-06439aec123c.png"> 
 I then created columns and functions for Number Successful,	Number Failed,	Number Canceled,	Total Projects,	Percentage Successful,	Percentage Failed, and	Percentage Canceled:
-<img width="922" alt="image" src="https://user-images.githubusercontent.com/91230277/140523019-87a709b8-8505-4f83-8604-fa62521e4281.png">
 Finally, I took the percentage columns and created another line graph that gave me a good look as to what were the outcomes based on goals:
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91230277/140524461-1e58dc8a-4abc-46ff-86f4-6817a26525b2.png)
 
